@@ -1,4 +1,4 @@
-module github.com/AIright/go-http-util
+module github.com/AIright/go-http-utils
 
 go 1.20
 
