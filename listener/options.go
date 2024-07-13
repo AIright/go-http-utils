@@ -3,6 +3,8 @@ package listener
 import (
 	"net/http"
 	"time"
+
+	"go.uber.org/zap"
 )
 
 type Option func(*options)

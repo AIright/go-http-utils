@@ -6,6 +6,8 @@ import (
 	"net/http"
 	"strconv"
 	"time"
+
+	"go.uber.org/zap"
 )
 
 // ServeHealthcheck serves pprof and readiness endpoints.
